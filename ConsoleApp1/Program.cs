@@ -3,25 +3,25 @@
     static void Main(string[] args)
     {
         //Example1
-        //    Console.WriteLine("Hello World");
-        //    int x = 5;
-        //    int y = 8;
-        //    int z = x + y;
-        //    Console.WriteLine("Add Two Numbers：{0}+{1}={2}", x, y, z);
+        Console.WriteLine("Hello World");
+        int x = 5;
+        int y = 8;
+        int z = x + y;
+        Console.WriteLine("Add Two Numbers：{0}+{1}={2}", x, y, z);
 
-        //    String str = "Name";
-        //    float f = 3.14f;
-        //    double d = 3.15;
-        //    bool boo = true;
-        //    Console.WriteLine("String:{0},\nfloat:{1},\ndouble:{2},\nbool:{3}", str, f, d, boo);
-        //    //escape characters are not recognized
-        //    Console.WriteLine(@"aaa\nbbb""
-        //                            bbb");
-        //    //output result：aaa\nbbb" new line bbb *define multiple lines
+        String str = "Name";
+        float f = 3.14f;
+        double d = 3.15;
+        bool boo = true;
+        Console.WriteLine("String:{0},\nfloat:{1},\ndouble:{2},\nbool:{3}", str, f, d, boo);
+        //escape characters are not recognized
+        Console.WriteLine(@"aaa\nbbb""
+                                    bbb");
+        //output result：aaa\nbbb" new line bbb *define multiple lines
 
-        //    Console.ReadKey();        //any key to continue
+        Console.ReadKey();        //any key to continue
 
-        //Example2
+        //Example2//
         //String str = Console.ReadLine();
         //Console.WriteLine(str);
         ////int i = Convert.ToInt32(str);
@@ -31,7 +31,7 @@
 
         //Console.ReadKey();
 
-        //Example3
+        //Example3//
         //Rabbit breeding problem, starting with a pair of rabbits, and starting from the third month,
         //a pair of rabbits will be bred every month,
         //مشكلة تربية الأرانب ابتداءً من زوج من الأرانب
